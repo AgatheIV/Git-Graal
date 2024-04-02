@@ -1,6 +1,7 @@
-lieu: table-ronde
+lieu: pont-levis
 inventaire:
   - cheval
+  - baguette 
 personnages:
   - moi:
     - santé: 10
@@ -11,4 +12,4 @@ personnages:
   - serpent:
     - santé: 20
   - géant:
-    - santé: 25
+    - santé: 25 
